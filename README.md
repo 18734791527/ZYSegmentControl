@@ -1,0 +1,2 @@
+# ZYSegmentControl
+类似于系统的SegmentControl封装
